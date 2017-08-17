@@ -1,0 +1,26 @@
+{
+  "name": "webrtc-playground",
+  "version": "1.0.0",
+  "description": "Project just to kidding with WebRTC",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smrafael/webrtc-playground.git"
+  },
+  "keywords": [
+    "webrtc"
+  ],
+  "author": "Rafael Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smrafael/webrtc-playground/issues"
+  },
+  "homepage": "https://github.com/smrafael/webrtc-playground#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
